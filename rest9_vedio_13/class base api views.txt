@@ -1,0 +1,1 @@
+class based api viewss.. all are same as before video but rest8 is implement in function based views but it is class based views.
