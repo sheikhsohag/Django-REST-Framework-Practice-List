@@ -1,0 +1,5 @@
+setting rest_framework.authToken  add korte hobe then migrate korte 
+token name ak ta table create hobe...
+manually token create kora jai abar.. commond line create 
+
+python managa.py drf_create_token username

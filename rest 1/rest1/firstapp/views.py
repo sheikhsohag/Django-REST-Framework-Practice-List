@@ -17,6 +17,10 @@ def student_detail(request, pk):
 def student_list(request):
     stu = Student.objects.all()
     serializer = StudentSerializer(stu, many = True)
+    
+    # below two line for return json data httpresponse form 
     # Json_data = JSONRenderer().render(serializer.data)
     # return HttpResponse(Json_data, content_type='application/json')
+    
+    # JsonTesponse instead of above to line.
     return JsonResponse(serializer.data, safe=False)

@@ -1,0 +1,5 @@
+session authentication//// 
+permission ...crud  model permission
+django model permission  ---- authentication user na hoel kisui korte dibe na
+
+django model permission or anonreadonly  ---authentication na hole o read korte dibe and auth hole sob korte dibe

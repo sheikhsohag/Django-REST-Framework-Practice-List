@@ -10,7 +10,7 @@ def get_data(id = None):
     json_data = json.dumps(data)
     r=requests.get(url=URL, data = json_data)
     data = r.json()
-    print(data)
+    print(data)  
 
 # get_data(2)
 

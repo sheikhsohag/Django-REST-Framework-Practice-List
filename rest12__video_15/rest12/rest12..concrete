@@ -1,0 +1,5 @@
+using from rest_framework.generics import RetrieveUpdateAPIView, RetrieveDestroyAPIView,RetrieveUpdateDestroyAPIView
+
+those two.. all crud operation can be possible..
+so the code reduce..
+ in the views last two class enough to crud operation

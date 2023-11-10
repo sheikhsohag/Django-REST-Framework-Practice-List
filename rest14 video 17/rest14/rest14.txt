@@ -1,0 +1,3 @@
+model view set and read only model view set
+
+model vies set reduce code of viewset with router and read only model view set only for read...

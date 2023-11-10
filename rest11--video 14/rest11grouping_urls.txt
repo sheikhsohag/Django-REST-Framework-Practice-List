@@ -1,0 +1,3 @@
+we can those operation divede into two part one is 
+with pk and other is without pk ... so code are reduce and all
+ operation can be possible in similtiniously
